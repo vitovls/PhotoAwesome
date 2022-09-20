@@ -1,0 +1,3 @@
+scripts:
+  - name: Build for iOS
+  script: expo run:ios
