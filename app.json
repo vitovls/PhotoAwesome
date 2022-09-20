@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "PhotoAwesome",
+    "slug": "PhotoAwesome",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.vitovls.PhotoAwesome",
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.vitovls.PhotoAwesome"
+    }
+  }
+}
